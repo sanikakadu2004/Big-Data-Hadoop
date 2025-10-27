@@ -1,0 +1,3 @@
+Hadoop is fast
+Hive is powerful
+Pig works with Hadoop
